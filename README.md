@@ -1,2 +1,2 @@
-# Portafolio-and-Scripts
+# Scripts
 Scripts :)
